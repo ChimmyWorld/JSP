@@ -1,0 +1,38 @@
+<%@page import="beans.Person"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex02.jsp</title>
+</head>
+<body>
+	<%
+		Person hong = new Person("홍길동");
+		Person kim = new Person("김민지");
+	
+		pageContext.setAttribute("p1", hong);
+		request.setAttribute("p2", kim);
+	%>
+		
+	<h1>EL - Attribute</h1>
+	<hr>
+	
+	<fieldset>
+		<legend>표현식</legend>
+		
+		<p><%=((Person)pageContext.getAttribute("p1")).getName() %></p>
+		<p><%=((Person)request.getAttribute("p2")).getName() %></p>
+	</fieldset>
+
+	<fieldset>
+		<legend>EL</legend>
+		
+		<p>${p1.getName() } - ${p1.name}</p>
+		<p>${p2.name }
+	</fieldset>
+	
+	
+</body>
+</html>

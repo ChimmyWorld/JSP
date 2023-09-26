@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<h1>pw 찾기 테스트</h1>
+
+<%
+	String userid = request.getParameter("userid");
+	String email = request.getParameter("email");
+	
+	String msg = "일치하는 계정이 존재하지 않습니다";
+	int row = 0;
+	
+	if (row == 0) {
+		msg = <%=newPW %>;
+	}
+	
+	
+%>
+
+	<script>
+	message('<%=msg %>', <%=row%>);
+	</script>
+</body>
+</html>

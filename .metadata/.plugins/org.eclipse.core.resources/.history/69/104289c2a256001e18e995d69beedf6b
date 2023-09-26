@@ -1,0 +1,12 @@
+package model;
+
+import beans.PersonVO;
+
+public class PersonDAO extends DAO{
+	
+	public PersonVO selectAll() {
+		
+		
+		return null;
+	}
+}

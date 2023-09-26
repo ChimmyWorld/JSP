@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex04.jsp</title>
+</head>
+<body>
+	<h1>EL - Cookie</h1>
+	<hr>
+	
+	<h4>전달한 parameter를 쿠키로 발급</h4>
+	
+	<form action="ex04_result.jsp">
+		<p><input name="name" placeholder="이름" required></p>
+		
+		<button>전송</button>
+	</form>
+	
+	<h4>쿠키: ${cookie.name }</h4>
+</body>
+</html>

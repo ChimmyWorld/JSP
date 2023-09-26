@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex01.jsp</title>
+</head>
+<body>
+	<jsp:useBean id="dao" class="model.DAO"/>
+	<c:set var="ver" value="${dao.test() }"/>
+	
+	<h1>DAO Test</h1>
+	<hr>
+	
+	<h4>${ver }</h4> 
+</body>
+</html>

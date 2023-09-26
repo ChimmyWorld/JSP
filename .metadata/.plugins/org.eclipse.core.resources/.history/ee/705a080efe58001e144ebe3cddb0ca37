@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex05.jsp</title>
+</head>
+<body>
+	<h1>EL - operator</h1>
+	<hr>
+	
+	<ul>
+		<li>\${10 + 3 } = ${10 + 3 }</li>
+		<li>\${10 - 3 } = ${10 - 3 }</li>
+		<li>\${10 * 3 } = ${10 * 3 }</li>
+		<li>\${10 / 3 } = ${10 / 3 }</li>
+		<li>\${10 % 3 } = ${10 % 3 }</li>
+		<li>\${10 > 3 } = ${10 gt 3 }</li> 	<%-- gt: greater than, ~보다 크다 --%>
+		<li>\${10 < 3 } = ${10 lt 3 }</li> 	<%-- lt: less    than, ~보다 작다 --%>
+		<li>\${10 >= 3 } = ${10 ge 3 }</li>	<%-- ge: greater equal, ~보다 크거나 같다--%>
+		<li>\${10 <= 3 } = ${10 le 3 }</li>	<%-- le: less    equal, ~보다 작거나 같다--%>
+	</ul>
+</body>
+</html>

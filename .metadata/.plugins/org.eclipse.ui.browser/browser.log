@@ -1,0 +1,450 @@
+
+9월 12, 2023 09:09:23.38 NEW SESSION
+9월 12, 2023 09:09:23.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 12, 2023 10:24:34.51 [25756:26288:0912/102434.513:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 10:24:34.51 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 10:24:34.51 ERROR: Failed parsing Certificate
+9월 12, 2023 10:24:34.51 
+9월 12, 2023 10:28:01.48 [25756:26288:0912/102801.489:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 10:28:01.49 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 10:28:01.49 ERROR: Failed parsing Certificate
+9월 12, 2023 10:28:01.49 
+9월 12, 2023 10:28:02.36 [25756:26288:0912/102802.364:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 10:28:02.36 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 10:28:02.36 ERROR: Failed parsing Certificate
+9월 12, 2023 10:28:02.36 
+9월 12, 2023 10:28:03.16 [25756:26288:0912/102803.162:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 10:28:03.16 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 10:28:03.16 ERROR: Failed parsing Certificate
+9월 12, 2023 10:28:03.16 
+9월 12, 2023 10:28:03.78 [25756:14100:0912/102803.787:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+9월 12, 2023 10:28:06.30 [25756:14100:0912/102806.308:ERROR:device_event_log_impl.cc(222)] [10:28:06.308] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+9월 12, 2023 10:28:17.82 [25756:26288:0912/102817.822:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 10:28:17.82 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 10:28:17.82 ERROR: Failed parsing Certificate
+9월 12, 2023 10:28:17.82 
+9월 12, 2023 10:28:46.84 [25756:26288:0912/102846.844:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 10:28:46.84 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 10:28:46.84 ERROR: Failed parsing Certificate
+9월 12, 2023 10:28:46.84 
+9월 12, 2023 10:36:52.72 [25756:14100:0912/103652.720:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 1, is_from_expiration = 0, deletion_reason = 1
+9월 12, 2023 11:46:02.29 [25756:21732:0912/114602.297:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 11:46:02.29 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 11:46:02.29 ERROR: Failed parsing Certificate
+9월 12, 2023 11:46:02.29 
+9월 12, 2023 11:46:02.30 [25756:26288:0912/114602.307:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 11:46:02.30 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 11:46:02.30 ERROR: Failed parsing Certificate
+9월 12, 2023 11:46:02.30 
+9월 12, 2023 11:46:11.98 [25756:26288:0912/114611.982:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 11:46:11.98 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 11:46:11.98 ERROR: Failed parsing Certificate
+9월 12, 2023 11:46:11.98 
+9월 12, 2023 11:46:11.99 [25756:26288:0912/114611.996:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 11:46:11.99 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 11:46:11.99 ERROR: Failed parsing Certificate
+9월 12, 2023 11:46:11.99 
+9월 12, 2023 11:46:12.08 [25756:26288:0912/114612.080:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 11:46:12.08 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 11:46:12.08 ERROR: Failed parsing Certificate
+9월 12, 2023 11:46:12.08 
+9월 12, 2023 11:46:23.19 [25756:26288:0912/114623.193:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 11:46:23.19 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 11:46:23.19 ERROR: Failed parsing Certificate
+9월 12, 2023 11:46:23.19 
+9월 12, 2023 14:02:59.49 [25756:26288:0912/140259.497:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:02:59.49 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:02:59.49 ERROR: Failed parsing Certificate
+9월 12, 2023 14:02:59.49 
+9월 12, 2023 14:45:10.23 [25756:14100:0912/144510.238:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 12, 2023 14:48:26.89 [25756:26288:0912/144826.895:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:48:26.89 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:48:26.89 ERROR: Failed parsing Certificate
+9월 12, 2023 14:48:26.89 
+9월 12, 2023 14:48:31.74 [25756:26288:0912/144831.741:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:48:31.74 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:48:31.74 ERROR: Failed parsing Certificate
+9월 12, 2023 14:48:31.74 
+9월 12, 2023 14:48:33.16 [25756:26288:0912/144833.159:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:48:33.16 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:48:33.16 ERROR: Failed parsing Certificate
+9월 12, 2023 14:48:33.16 
+9월 12, 2023 14:48:37.36 [25756:14100:0912/144837.366:ERROR:sharing_service.cc(250)] Device un-registration failed with fatal error
+9월 12, 2023 14:58:52.32 [25756:21732:0912/145852.324:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for lexicon.33across.com failed:
+9월 12, 2023 14:58:52.32 ----- Certificate i=0 (emailAddress=none@vmware.com,CN=VMware,OU=VMware,L=Palo Alto,C=US) -----
+9월 12, 2023 14:58:52.32 ERROR: No matching issuer found
+9월 12, 2023 14:58:52.32 
+9월 12, 2023 14:58:52.32 
+9월 12, 2023 14:58:52.85 [25756:26288:0912/145852.850:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:58:52.85 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:58:52.85 ERROR: Failed parsing Certificate
+9월 12, 2023 14:58:52.85 
+9월 12, 2023 14:58:53.02 [25756:26288:0912/145853.027:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:58:53.02 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:58:53.02 ERROR: Failed parsing Certificate
+9월 12, 2023 14:58:53.02 
+9월 12, 2023 14:58:53.79 [25756:3784:0912/145853.791:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:58:53.79 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:58:53.79 ERROR: Failed parsing Certificate
+9월 12, 2023 14:58:53.79 
+9월 12, 2023 14:58:53.96 [25756:26288:0912/145853.964:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 12, 2023 14:58:53.96 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 12, 2023 14:58:53.96 ERROR: Failed parsing Certificate
+9월 12, 2023 14:58:53.96 
+
+9월 18, 2023 09:48:34.75 NEW SESSION
+9월 18, 2023 09:48:34.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 18, 2023 10:30:57.90 [34292:1116:0918/103057.905:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:57.90 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:57.90 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:57.90 
+9월 18, 2023 10:30:58.09 [34292:1116:0918/103058.095:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:58.09 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:58.09 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:58.09 
+9월 18, 2023 10:30:58.47 [34292:1116:0918/103058.474:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:58.47 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:58.47 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:58.47 
+9월 18, 2023 10:30:59.29 [34292:1116:0918/103059.295:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:59.29 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:59.29 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:59.29 
+9월 18, 2023 10:30:59.29 [34292:28948:0918/103059.295:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:59.29 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:59.29 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:59.29 
+9월 18, 2023 10:30:59.41 [34292:1116:0918/103059.409:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:59.41 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:59.41 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:59.41 
+9월 18, 2023 10:30:59.79 [34292:1116:0918/103059.796:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:59.79 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:59.79 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:59.79 
+9월 18, 2023 10:30:59.87 [34292:1116:0918/103059.871:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:30:59.87 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:30:59.87 ERROR: Failed parsing Certificate
+9월 18, 2023 10:30:59.87 
+9월 18, 2023 10:31:07.16 [34292:1116:0918/103107.161:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:31:07.16 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:31:07.16 ERROR: Failed parsing Certificate
+9월 18, 2023 10:31:07.16 
+9월 18, 2023 10:31:11.03 [34292:1116:0918/103111.035:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:31:11.03 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:31:11.03 ERROR: Failed parsing Certificate
+9월 18, 2023 10:31:11.03 
+9월 18, 2023 10:31:11.45 [34292:1116:0918/103111.449:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:31:11.45 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:31:11.45 ERROR: Failed parsing Certificate
+9월 18, 2023 10:31:11.45 
+9월 18, 2023 10:31:11.58 [34292:1116:0918/103111.584:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:31:11.58 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:31:11.58 ERROR: Failed parsing Certificate
+9월 18, 2023 10:31:11.58 
+9월 18, 2023 10:33:52.49 [34292:1116:0918/103352.496:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:33:52.49 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:33:52.49 ERROR: Failed parsing Certificate
+9월 18, 2023 10:33:52.49 
+9월 18, 2023 10:40:56.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 18, 2023 10:53:46.19 [33572:29728:0918/105346.196:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:46.19 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:46.19 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:46.19 
+9월 18, 2023 10:53:46.36 [33572:29728:0918/105346.362:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:46.36 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:46.36 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:46.36 
+9월 18, 2023 10:53:46.68 [33572:2276:0918/105346.681:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:46.68 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:46.68 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:46.68 
+9월 18, 2023 10:53:46.68 [33572:29728:0918/105346.681:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:46.68 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:46.68 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:46.68 
+9월 18, 2023 10:53:46.69 [33572:2276:0918/105346.694:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:46.69 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:46.69 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:46.69 
+9월 18, 2023 10:53:47.54 [33572:29728:0918/105347.542:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:47.54 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:47.54 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:47.54 
+9월 18, 2023 10:53:47.70 [33572:29728:0918/105347.705:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:47.70 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:47.70 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:47.70 
+9월 18, 2023 10:53:48.61 [33572:2276:0918/105348.616:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:48.61 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:48.61 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:48.61 
+9월 18, 2023 10:53:50.36 [33572:29728:0918/105350.361:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:50.36 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:50.36 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:50.36 
+9월 18, 2023 10:53:51.28 [33572:29728:0918/105351.282:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 10:53:51.28 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 10:53:51.28 ERROR: Failed parsing Certificate
+9월 18, 2023 10:53:51.28 
+9월 18, 2023 11:03:50.76 [33572:29728:0918/110350.768:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:03:50.76 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:03:50.76 ERROR: Failed parsing Certificate
+9월 18, 2023 11:03:50.76 
+9월 18, 2023 11:04:47.27 [33572:29728:0918/110447.272:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:04:47.27 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:04:47.27 ERROR: Failed parsing Certificate
+9월 18, 2023 11:04:47.27 
+9월 18, 2023 11:05:17.01 [33572:29728:0918/110517.015:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:05:17.26 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:05:17.26 ERROR: Failed parsing Certificate
+9월 18, 2023 11:05:17.26 
+9월 18, 2023 11:05:17.36 [33572:29728:0918/110517.359:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:05:17.36 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:05:17.36 ERROR: Failed parsing Certificate
+9월 18, 2023 11:05:17.36 
+9월 18, 2023 11:05:17.39 [33572:29728:0918/110517.390:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:05:17.39 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:05:17.39 ERROR: Failed parsing Certificate
+9월 18, 2023 11:05:17.39 
+9월 18, 2023 11:05:17.65 [33572:29728:0918/110517.657:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:05:17.65 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:05:17.65 ERROR: Failed parsing Certificate
+9월 18, 2023 11:05:17.65 
+9월 18, 2023 11:05:48.81 [33572:29728:0918/110548.816:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:05:48.81 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:05:48.81 ERROR: Failed parsing Certificate
+9월 18, 2023 11:05:48.81 
+9월 18, 2023 11:08:22.21 [33572:29728:0918/110822.215:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:08:22.21 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:08:22.21 ERROR: Failed parsing Certificate
+9월 18, 2023 11:08:22.21 
+9월 18, 2023 11:08:22.34 [33572:29728:0918/110822.348:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 11:08:22.34 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 11:08:22.34 ERROR: Failed parsing Certificate
+9월 18, 2023 11:08:22.34 
+9월 18, 2023 11:44:39.11 [33572:36008:0918/114439.114:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:39.36 [33572:36008:0918/114439.366:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:39.51 [33572:36008:0918/114439.510:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:39.62 [33572:36008:0918/114439.623:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:39.78 [33572:36008:0918/114439.783:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:39.95 [33572:36008:0918/114439.951:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:40.86 [33572:36008:0918/114440.863:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:41.02 [33572:36008:0918/114441.029:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:42.46 [33572:36008:0918/114442.461:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:42.57 [33572:36008:0918/114442.575:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:42.67 [33572:36008:0918/114442.676:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:42.99 [33572:36008:0918/114442.992:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:43.50 [33572:36008:0918/114443.501:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:43.50 [33572:36008:0918/114443.508:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:43.62 [33572:36008:0918/114443.622:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 11:44:43.66 [33572:36008:0918/114443.667:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.162 s for first_image_paint 0.145 s
+9월 18, 2023 12:59:22.26 [33572:29728:0918/125922.262:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 12:59:22.26 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 12:59:22.26 ERROR: Failed parsing Certificate
+9월 18, 2023 12:59:22.26 
+9월 18, 2023 12:59:24.15 [33572:29728:0918/125924.152:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 12:59:24.15 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 12:59:24.15 ERROR: Failed parsing Certificate
+9월 18, 2023 12:59:24.15 
+9월 18, 2023 12:59:30.77 [33572:29728:0918/125930.772:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 12:59:30.77 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 12:59:30.77 ERROR: Failed parsing Certificate
+9월 18, 2023 12:59:30.77 
+9월 18, 2023 13:20:53.79 [33572:29728:0918/132053.790:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 13:20:53.79 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 13:20:53.79 ERROR: Failed parsing Certificate
+9월 18, 2023 13:20:53.79 
+9월 18, 2023 14:56:57.59 [33572:36008:0918/145657.594:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+9월 18, 2023 14:57:32.74 [33572:29728:0918/145732.741:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 18, 2023 14:57:32.74 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 18, 2023 14:57:32.74 ERROR: Failed parsing Certificate
+9월 18, 2023 14:57:32.74 
+
+9월 19, 2023 09:09:54.98 NEW SESSION
+9월 19, 2023 09:09:54.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 19, 2023 09:23:29.49 [28876:32596:0919/092329.490:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:23:29.49 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:23:29.49 ERROR: Failed parsing Certificate
+9월 19, 2023 09:23:29.49 
+9월 19, 2023 09:23:29.49 [28876:28200:0919/092329.490:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:23:29.49 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:23:29.49 ERROR: Failed parsing Certificate
+9월 19, 2023 09:23:29.49 
+9월 19, 2023 09:23:29.55 [28876:32596:0919/092329.557:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:23:29.55 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:23:29.55 ERROR: Failed parsing Certificate
+9월 19, 2023 09:23:29.55 
+9월 19, 2023 09:23:49.97 [28876:32596:0919/092349.972:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:23:49.97 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:23:49.97 ERROR: Failed parsing Certificate
+9월 19, 2023 09:23:49.97 
+9월 19, 2023 09:24:32.95 [28876:32596:0919/092432.951:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:24:32.95 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:24:32.95 ERROR: Failed parsing Certificate
+9월 19, 2023 09:24:32.95 
+9월 19, 2023 09:28:02.37 [28876:32596:0919/092802.371:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:28:02.37 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:28:02.37 ERROR: Failed parsing Certificate
+9월 19, 2023 09:28:02.37 
+9월 19, 2023 09:28:23.89 [28876:32596:0919/092823.891:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:28:23.89 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:28:23.89 ERROR: Failed parsing Certificate
+9월 19, 2023 09:28:23.89 
+9월 19, 2023 09:44:01.05 [28876:32596:0919/094401.050:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:01.05 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:01.05 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:01.05 
+9월 19, 2023 09:44:01.31 [28876:32596:0919/094401.310:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:01.31 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:01.31 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:01.31 
+9월 19, 2023 09:44:01.40 [28876:32596:0919/094401.400:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:01.40 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:01.40 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:01.40 
+9월 19, 2023 09:44:02.12 [28876:32596:0919/094402.128:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:02.12 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:02.12 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:02.13 
+9월 19, 2023 09:44:02.67 [28876:32596:0919/094402.672:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:02.67 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:02.67 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:02.67 
+9월 19, 2023 09:44:04.07 [28876:32596:0919/094404.070:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:04.07 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:04.07 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:04.07 
+9월 19, 2023 09:44:05.07 [28876:32596:0919/094405.073:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:05.07 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:05.07 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:05.07 
+9월 19, 2023 09:44:07.16 [28876:32596:0919/094407.161:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:07.16 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:07.16 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:07.16 
+9월 19, 2023 09:44:28.34 [28876:32596:0919/094428.342:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 09:44:28.34 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 09:44:28.34 ERROR: Failed parsing Certificate
+9월 19, 2023 09:44:28.34 
+9월 19, 2023 10:03:48.06 [28876:26432:0919/100348.067:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:48.16 [28876:26432:0919/100348.169:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:49.37 [28876:26432:0919/100349.372:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:49.59 [28876:26432:0919/100349.598:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:49.75 [28876:26432:0919/100349.757:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:49.90 [28876:26432:0919/100349.907:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:50.03 [28876:26432:0919/100350.030:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:50.12 [28876:26432:0919/100350.126:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:50.24 [28876:26432:0919/100350.243:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:50.77 [28876:26432:0919/100350.775:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:51.07 [28876:26432:0919/100351.074:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:53.32 [28876:26432:0919/100353.322:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:53.43 [28876:26432:0919/100353.438:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:55.27 [28876:26432:0919/100355.277:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:55.38 [28876:26432:0919/100355.388:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:55.57 [28876:26432:0919/100355.570:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:55.68 [28876:26432:0919/100355.687:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:56.40 [28876:26432:0919/100356.404:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:56.52 [28876:26432:0919/100356.521:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:56.63 [28876:26432:0919/100356.637:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:56.75 [28876:26432:0919/100356.754:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:56.87 [28876:26432:0919/100356.871:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:57.35 [28876:26432:0919/100357.357:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:57.46 [28876:26432:0919/100357.468:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:03:57.50 [28876:26432:0919/100357.504:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+9월 19, 2023 10:08:57.93 [28876:32596:0919/100857.939:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:08:57.94 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:08:57.94 ERROR: Failed parsing Certificate
+9월 19, 2023 10:08:57.94 
+9월 19, 2023 10:08:58.14 [28876:28200:0919/100858.149:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:08:58.15 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:08:58.15 ERROR: Failed parsing Certificate
+9월 19, 2023 10:08:58.15 
+9월 19, 2023 10:12:36.13 [28876:32596:0919/101236.134:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:12:36.13 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:12:36.13 ERROR: Failed parsing Certificate
+9월 19, 2023 10:12:36.13 
+9월 19, 2023 10:12:36.28 [28876:32596:0919/101236.280:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:12:36.28 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:12:36.28 ERROR: Failed parsing Certificate
+9월 19, 2023 10:12:36.28 
+9월 19, 2023 10:12:37.58 [28876:32596:0919/101237.587:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:12:37.58 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:12:37.58 ERROR: Failed parsing Certificate
+9월 19, 2023 10:12:37.58 
+9월 19, 2023 10:12:37.65 [28876:32596:0919/101237.655:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:12:37.65 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:12:37.65 ERROR: Failed parsing Certificate
+9월 19, 2023 10:12:37.65 
+9월 19, 2023 10:12:37.77 [28876:32596:0919/101237.773:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:12:37.77 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:12:37.77 ERROR: Failed parsing Certificate
+9월 19, 2023 10:12:37.77 
+9월 19, 2023 10:12:37.95 [28876:32596:0919/101237.956:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:12:37.95 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:12:37.95 ERROR: Failed parsing Certificate
+9월 19, 2023 10:12:37.95 
+9월 19, 2023 10:13:28.55 [28876:32596:0919/101328.554:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 10:13:28.55 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 10:13:28.55 ERROR: Failed parsing Certificate
+9월 19, 2023 10:13:28.55 
+9월 19, 2023 10:14:24.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 19, 2023 11:04:49.90 [7544:27540:0919/110449.909:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:04:49.91 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:04:49.91 ERROR: Failed parsing Certificate
+9월 19, 2023 11:04:49.91 
+9월 19, 2023 11:04:50.10 [7544:27540:0919/110450.107:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:04:50.10 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:04:50.10 ERROR: Failed parsing Certificate
+9월 19, 2023 11:04:50.10 
+9월 19, 2023 11:04:50.84 [7544:27540:0919/110450.843:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:04:50.84 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:04:50.84 ERROR: Failed parsing Certificate
+9월 19, 2023 11:04:50.84 
+9월 19, 2023 11:04:52.03 [7544:27540:0919/110452.033:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:04:52.03 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:04:52.03 ERROR: Failed parsing Certificate
+9월 19, 2023 11:04:52.03 
+9월 19, 2023 11:04:52.10 [7544:16212:0919/110452.100:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:04:52.10 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:04:52.10 ERROR: Failed parsing Certificate
+9월 19, 2023 11:04:52.10 
+9월 19, 2023 11:32:10.51 [7544:27540:0919/113210.513:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:32:10.51 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:32:10.51 ERROR: Failed parsing Certificate
+9월 19, 2023 11:32:10.51 
+9월 19, 2023 11:32:22.57 [7544:27540:0919/113222.574:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:32:22.57 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:32:22.57 ERROR: Failed parsing Certificate
+9월 19, 2023 11:32:22.57 
+9월 19, 2023 11:32:22.71 [7544:27540:0919/113222.717:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:32:22.71 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:32:22.71 ERROR: Failed parsing Certificate
+9월 19, 2023 11:32:22.71 
+9월 19, 2023 11:32:22.72 [7544:27540:0919/113222.727:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:32:22.72 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:32:22.72 ERROR: Failed parsing Certificate
+9월 19, 2023 11:32:22.72 
+9월 19, 2023 11:32:23.27 [7544:27540:0919/113223.269:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 19, 2023 11:32:23.27 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 19, 2023 11:32:23.27 ERROR: Failed parsing Certificate
+9월 19, 2023 11:32:23.27 
+
+9월 21, 2023 09:28:30.01 NEW SESSION
+9월 21, 2023 09:28:30.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 21, 2023 11:25:32.16 [29136:14040:0921/112532.163:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 21, 2023 11:25:32.16 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 21, 2023 11:25:32.16 ERROR: Failed parsing Certificate
+9월 21, 2023 11:25:32.16 
+9월 21, 2023 11:25:34.61 [29136:14040:0921/112534.611:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+9월 21, 2023 11:25:34.61 ERROR: Couldn't read tbsCertificate as SEQUENCE
+9월 21, 2023 11:25:34.61 ERROR: Failed parsing Certificate
+9월 21, 2023 11:25:34.61 
+9월 21, 2023 11:38:50.42 [29136:15472:0921/113850.420:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 21, 2023 11:42:37.23 [29136:15472:0921/114237.229:ERROR:interface_endpoint_client.cc(702)] Message 6 rejected by interface blink.mojom.WidgetHost
+9월 21, 2023 11:42:37.23 [29136:15472:0921/114237.229:ERROR:interface_endpoint_client.cc(702)] Message 7 rejected by interface blink.mojom.WidgetHost
+9월 21, 2023 11:44:19.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 21, 2023 14:04:27.59 [36988:27480:0921/140427.591:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 21, 2023 14:05:12.31 [36988:27480:0921/140512.319:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 21, 2023 14:05:47.08 [36988:27480:0921/140547.087:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 21, 2023 14:17:58.35 [36988:27480:0921/141758.356:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost

@@ -1,0 +1,21 @@
+<%@page import="model.AccountDAO"%>
+<%@include file="header.jsp" %>
+
+	<jsp:useBean id="input" class="beans.AccountVO"/>
+	<jsp:setProperty property="*" name="input"/>
+	
+	<%
+		int row = dao.update(input);
+		String msg = "수정 ";
+		msg += row == 0 ? "실패" : "성공";
+		
+		session.removeAttribute("user");
+	%>
+	
+	<script src="../js/message.js"></script>
+	
+	<script>
+		message(<%=row %>, '수정');
+	</script>
+</body>
+</html>

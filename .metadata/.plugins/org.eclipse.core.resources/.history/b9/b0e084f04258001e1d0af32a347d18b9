@@ -1,0 +1,8 @@
+package service;
+
+public class NewPassword {
+	public static String getPassword() {
+		
+		return "1234";
+	}
+}

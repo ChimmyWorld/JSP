@@ -1,0 +1,10 @@
+function message(msg, row) {
+	if (<%=row %> != 0) {
+	alert(msg);
+	location.href= 'home.jsp';
+	}
+	else {
+		alert('로그인 실패');
+			history.back();
+		}
+}

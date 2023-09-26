@@ -1,0 +1,26 @@
+<%@page import="java.util.Random"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex02.jsp</title>
+</head>
+<body>
+	<%
+		Random ran = new Random();
+		String chs = "abcdefghijklmnopqrstuvwxyz0123456789";
+		
+		String newPw = "";
+		
+		System.out.println((chs.charAt(0));
+		
+		for (int i = 1; i <= 6; i++) {
+			
+		}
+	%>
+	
+	<h1>무작위 패스워드 생성</h1>
+</body>
+</html>

@@ -1,0 +1,13 @@
+package model;
+
+import java.sql.Connection;
+import java.util.List;
+
+import beans.AccountVO;
+
+public class AccountDAO {
+	public List<AccountVO> selectAll(){
+		Connection
+	}
+
+}

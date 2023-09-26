@@ -1,0 +1,26 @@
+<%@page import="java.util.Random"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+<%@ include file="../ex02.jsp" %>
+
+<%
+	String userid = request.getParameter("userid");
+	String email = request.getParameter("email");
+	
+	dao.findPw(newPw, userid, email);
+	
+	String msg = "일치하는 계정이 존재하지 않습니다";
+	int row = 0;
+	
+	if (*** != null) {
+		msg	= "임시비밀번호는 " + newPw + "입니다.";
+	}
+	
+%>
+
+	<script>
+	message('<%=msg %>', <%=row%>);
+	</script>
+</body>
+</html>
