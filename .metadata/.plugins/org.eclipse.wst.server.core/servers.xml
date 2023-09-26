@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="server at localhost" name="server at localhost" runtime-id="server" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="11">
-    <list key="modules" value0="Test::org.eclipse.jst.jee.server:Test::jst.web::3.1" value1="Day44::org.eclipse.jst.jee.server:Day44::jst.web::3.1" value10="Day54::org.eclipse.jst.jee.server:Day54::jst.web::3.1" value2="Day45::org.eclipse.jst.jee.server:Day45::jst.web::3.1" value3="Day46::org.eclipse.jst.jee.server:Day46::jst.web::3.1" value4="MVC2::org.eclipse.jst.jee.server:MVC2::jst.web::3.1" value5="Day47::org.eclipse.jst.jee.server:Day47::jst.web::3.1" value6="Day48::org.eclipse.jst.jee.server:Day48::jst.web::3.1" value7="Day49::org.eclipse.jst.jee.server:Day49::jst.web::3.1" value8="Day50::org.eclipse.jst.jee.server:Day50::jst.web::3.1" value9="Day53::org.eclipse.jst.jee.server:Day53::jst.web::3.1"/>
-  </server>
-</servers>

@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;MVC2/WebContent/WEB-INF/ex01.jsp&apos; to &apos;home.jsp&apos;" description="Rename resource &apos;ex01.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/ex01.jsp" name="home.jsp" stamp="1694572693578" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;MVC2&apos;&#x0D;&#x0A;- Original project: &apos;MVC2&apos;&#x0D;&#x0A;- Original element: &apos;css&apos;" description="Delete element" element1="WebContent/WEB-INF/css" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1694578449390" subPackages="false" version="1.0"/>
-</session>

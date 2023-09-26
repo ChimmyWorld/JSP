@@ -1,8 +1,0 @@
-package model;
-
-import javax.naming.InitialContext;
-
-public class DAO {
-	protected InitialContext ct;
-	protected DataSource ds;
-}
