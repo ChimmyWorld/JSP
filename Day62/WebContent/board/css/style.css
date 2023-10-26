@@ -1,0 +1,56 @@
+@charset "UTF-8";
+body{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.board {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.thumbnail{
+	width: 17%;
+	height: 200px;
+	margin: 10px;
+	text-align: center;
+}
+
+.view {
+	border-collapse: collapse;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.view th, .view td{
+	border: 1px solid #aeaeae;
+	padding: 5px 10px;
+}
+
+.contents div {
+	text-align: center;
+}
+
+.view tr:last-child td{
+	border: 0;
+	padding: 10px 0;
+}
+
+.view input, .view textarea {
+	box-sizing: border-box;
+	width: 100%;
+	border:0;
+	outline: none;
+	font-family: consolas;
+	font-size: 120%;
+}
+
+.view textarea{
+	min-height: 350px;
+	resize: none;
+}
+
+.view .contents {
+	min-height: 350px;
+}

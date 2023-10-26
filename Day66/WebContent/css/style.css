@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body {
+	width: 1100px;
+	margin: 0 auto;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+.menu {
+	list-style: none;
+	padding: 0;
+	display: flex;
+}
+.menu > li {
+	margin: 0 10px;
+}
+.page {
+	justify-content: center;	
+}
+
+.board {
+	width: 95%;
+	margin: 0 auto;
+}
+.board > table {
+	border-collapse: collapse;
+	margin: 20px 0;
+	width: 100%;
+}
+.board th, .board td {
+	border: 1px solid #aaaaaa;
+	padding: 5px 10px;
+	text-align: center;
+}
+.board td:nth-child(2) {
+	width: 50%;
+	text-align: left;
+}
+#view th, #view td {
+	text-align: left;
+}
+.write td:nth-child(2) {
+	width: 80%;
+}
+.write input, .write textarea {
+	box-sizing: border-box;
+	border: 0;
+	outline: none;
+	width: 100%;
+	font-size: 18px;
+	font-family: consolas;
+}
+.write textarea {
+	resize: none;
+	min-height: 350px;
+}
+footer {
+	text-align: center;
+}

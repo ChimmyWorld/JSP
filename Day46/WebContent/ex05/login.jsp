@@ -8,8 +8,7 @@
 <title>login.jsp</title>
 </head>
 <body>
-	<%!
-		User[] users = new User[] {
+	<%!User[] users = new User[] {
 				new User("itbank", "it", "아뱅", "it@naver.com"),
 				new User("test", "1", "테스트", "t@gmail.com"),
 				new User("admin", "q", "관리자", "ad@kakao.com"),
@@ -22,8 +21,7 @@
 					}
 				}
 			return null;
-		}
-	%>
+		}%>
 	
 	<jsp:useBean id="user" class="beans.User"/>
 	<jsp:setProperty property="*" name="user"/>

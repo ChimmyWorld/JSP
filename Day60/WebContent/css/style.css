@@ -1,0 +1,119 @@
+@charset "UTF-8";
+* {
+	font-family: consolas;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+.board {
+	width: 800px;
+}
+.boards {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 16px;
+}
+.boards th, .boards td {
+	border: 1px solid black;
+	padding: 5px 10px;
+}
+.boards pre {
+	min-height: 150px;
+}
+.boards input, .boards textarea {
+	width: 100%;
+	box-sizing: border-box;
+	outline: none;
+	border: 0;
+	font-size: 16px;
+	font-family: consolas;
+}
+.boards textarea {
+	resize: none;
+	min-height: 250px;
+}
+.page {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+}
+.page > li {
+	margin: 0 10px;
+}
+.reply {
+	width: 800px;
+}
+.reply > * {
+	width: 100%;
+	box-sizing: border-box;
+	margin: 5px 0;
+}
+.reply > section {
+	display: flex;
+	justify-content: space-between;
+}
+.reply > section > * {
+	box-sizing: border-box;
+}
+.reply textarea {
+	width: 92%;
+	height: 70px;
+}
+.menu {
+	width: 800px;
+	display: flex;
+	justify-content: space-between;
+}
+.order {
+	list-style: none;
+	padding: 0;
+	display: flex;
+}
+.order > li {
+	border: 1px solid black;
+	padding: 5px 10px;
+	margin-left: -1px;
+}
+.noBorder > li {
+	border: 0px;
+}
+.inBlk {
+	display: inline-block;
+}
+.myPage {
+	display: flex;
+}
+.myPage > .list {
+	border-right : 1px solid black;
+	padding-right : 30px;
+	margin-right : 30px;
+}
+.showInfo table {
+	width: auto;
+}
+.recommend {
+	display: flex;
+	justify-content: center;
+}
+.recommend button {
+	width: 60px;
+	height: 60px;
+	margin: 0 5px;
+	cursor: pointer;
+}
+.recommend .good {
+	background-color: blue;
+	color: white;
+}
+.recommend .bad {
+	background-color: red;
+	color: white;
+}
+
+
+
+
+
+

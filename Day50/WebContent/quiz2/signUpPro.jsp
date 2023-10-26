@@ -2,7 +2,9 @@
     pageEncoding="UTF-8"%>
 <%@ include file="header.jsp" %>
 	
-	<% request.setCharacterEncoding("utf-8"); %>
+	<%
+			request.setCharacterEncoding("utf-8");
+		%>
 	
 	<jsp:useBean id="input" class="beans.AccountVO"/>
 	<jsp:setProperty property="*" name="input"/>

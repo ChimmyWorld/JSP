@@ -10,8 +10,7 @@
 </head>
 <body>
 
-	<%!
-	public void setCookies(HttpServletResponse response, AccountVO user, String save){
+	<%!public void setCookies(HttpServletResponse response, AccountVO user, String save){
 		Cookie[] cs = new Cookie[] {
 				new Cookie("userid", user.getUserid()),
 				new Cookie("save", "checked")
@@ -26,10 +25,11 @@
 			response.addCookie(cs[i]);
 		}
 		
-	}
-	%>
+	}%>
 	
-	<% request.setCharacterEncoding("utf-8"); %>
+	<%
+			request.setCharacterEncoding("utf-8");
+		%>
 	<jsp:useBean id="user" class="beans.AccountVO"/>
 	<jsp:setProperty property="*" name="user"/>
 	

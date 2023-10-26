@@ -6,8 +6,7 @@
 	<jsp:useBean id="input" class="beans.AccountVO"/>
 	<jsp:setProperty property="*" name="input"/>
 
-	<%!
-		public void setCookies(HttpServletResponse response, AccountVO input, String save){
+	<%!public void setCookies(HttpServletResponse response, AccountVO input, String save){
 			Cookie[] cs = new Cookie[] {
 					new Cookie("userid", input.getUserid()),
 					new Cookie("save", "checked")
@@ -21,8 +20,7 @@
 				}
 				response.addCookie(cs[i]);
 			}
-	}
-	%>
+	}%>
 
 	<% request.setCharacterEncoding("utf-8"); %>
 	

@@ -8,7 +8,9 @@
 <title>ex03_result.jsp</title>
 </head>
 <body>
-	<% request.setCharacterEncoding("utf-8"); %>
+	<%
+		request.setCharacterEncoding("utf-8");
+	%>
 	
 	<h1>결과</h1>
 	<hr>
